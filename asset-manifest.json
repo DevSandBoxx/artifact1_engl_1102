@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/artifact1_engl_1102/static/css/main.475ca27e.css",
+    "main.js": "/artifact1_engl_1102/static/js/main.aaca37c7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/artifact1_engl_1102/static/js/787.28cb0dcd.chunk.js",
+    "static/media/arvindchair.png": "/artifact1_engl_1102/static/media/arvindchair.dd8ec64948967251e7f4.png",
+    "static/media/klismos.jpeg": "/artifact1_engl_1102/static/media/klismos.9f40d47c12e91c4a1e52.jpeg",
+    "static/media/japan.jpeg": "/artifact1_engl_1102/static/media/japan.9ebdb87e4de05152f205.jpeg",
+    "static/media/egypt.jpeg": "/artifact1_engl_1102/static/media/egypt.bca7119a618e89d159eb.jpeg",
+    "static/media/molded.png": "/artifact1_engl_1102/static/media/molded.14533465242a77dc4ce9.png",
+    "static/media/officechair.png": "/artifact1_engl_1102/static/media/officechair.ed76409cdcd232fbd94f.png",
+    "index.html": "/artifact1_engl_1102/index.html",
+    "main.475ca27e.css.map": "/artifact1_engl_1102/static/css/main.475ca27e.css.map",
+    "main.aaca37c7.js.map": "/artifact1_engl_1102/static/js/main.aaca37c7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/artifact1_engl_1102/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.475ca27e.css",
+    "static/js/main.aaca37c7.js"
+  ]
+}
